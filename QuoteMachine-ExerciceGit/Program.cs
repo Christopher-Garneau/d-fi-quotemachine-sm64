@@ -20,8 +20,7 @@ static void AddNewQuote(QuoteManager manager)
 {
     Console.WriteLine("[Simulation] On ajouterait une nouvelle citation ici.");
     // Exemple futur :
-    // Console.Write("Texte : ");
-    // var texte = Console.ReadLine();
+
     // Console.Write("Auteur : ");
     // var auteur = Console.ReadLine();
     // manager.AddQuote(texte, auteur);
